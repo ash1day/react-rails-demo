@@ -1,5 +1,6 @@
 module Api
   class CommentsController < ApplicationController
+  	protect_from_forgery :except => [:create]
 
     def index
       @comments = Comment.all
