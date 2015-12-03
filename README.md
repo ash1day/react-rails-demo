@@ -1,4 +1,4 @@
-== README
+# react-rails-demo
 
 [React.jsのチュートリアル](https://facebook.github.io/react/docs/tutorial.html)で作ったコメント投稿アプリをrailsAPIと連携して動かすだけのDemo
 
